@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/budda.jpg",
+        "alt": "Tian Tan Buddha",
+        "name": "Tian Tan Buddha",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/algeria.jpg",
+        "alt": "Algerian Sand Sea",
+        "name": "algeria",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/croatia.jpg",
+        "alt": "Beautiful beaches",
+        "name": "croatia",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/indonesia.jpg",
+        "alt": "Sacred and religious sites",
+        "name": "indonesia",
+        "button": "View Destination"
+    }
+]
