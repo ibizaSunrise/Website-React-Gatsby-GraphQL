@@ -7,6 +7,7 @@ import Testimonials from "../components/Testimonials"
 import Stats from "../components/Stats"
 import Email from "../components/Email"
 
+
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
