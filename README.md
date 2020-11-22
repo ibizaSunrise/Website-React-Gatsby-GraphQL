@@ -2,7 +2,8 @@
 
 Strona w trakcie budowy...
 
-### nav & hero section
+<span style = "color: red">nav & hero section</span>
+
 ![hero1](https://user-images.githubusercontent.com/66250856/99909625-f7b88800-2ce9-11eb-8431-117aa5129ec8.png)![hero2](https://user-images.githubusercontent.com/66250856/99909626-f7b88800-2ce9-11eb-93f4-fac8263ea843.png)
 
 ### trips section
