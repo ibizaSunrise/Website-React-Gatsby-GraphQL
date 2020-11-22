@@ -12,4 +12,4 @@ Strona w trakcie budowy...
 
 ### email component
 
-<h3 tekst-align="center">hello</h3>
+
