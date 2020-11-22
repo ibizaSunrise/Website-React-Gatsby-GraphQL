@@ -1,10 +1,13 @@
+## Website (React, Gatsby, GraphQL) 
 
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center" color="red">
-  h1
-</h1>
+Strona w trakcie budowy...
 
+### nav & hero section
+
+### trips section
+
+### testimonials section
+
+### stats component
+
+### email component
