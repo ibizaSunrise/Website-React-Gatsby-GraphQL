@@ -11,3 +11,5 @@ Strona w trakcie budowy...
 ### stats component
 
 ### email component
+
+<h3 tekst-align="center">hello</h3>
